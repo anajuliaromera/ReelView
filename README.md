@@ -142,19 +142,6 @@ http://localhost:5087/swagger
 
 ---
 
-# 🔐 Autenticação JWT
-
-1. Faça login no endpoint `/auth/login`
-2. Receba o token
-3. No Swagger, clique em **Authorize**
-4. Insira:
-
-```
-Bearer SEU_TOKEN_AQUI
-```
-
----
-
 # 📡 Endpoints Principais
 
 ### 🔑 Autenticação
