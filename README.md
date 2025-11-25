@@ -24,7 +24,7 @@ ReelView é uma API RESTful desenvolvida em **ASP.NET Core 8**, estruturada com 
 - DTOs  
 - Interfaces de Serviços  
 - Interfaces de Repositórios  
-- **Sem dependências externas**
+
 
 ### 📂 **ReelView.Infrastructure**
 - `AppDbContext` (EF Core / SQLite)  
